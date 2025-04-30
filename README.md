@@ -1,3 +1,3 @@
-# ECEI-Data-Visualisation
+# ECEI-Data-Visualization
 This project presents a visual analysis of the extent of Early Childhood Education (ECE) implementation across five critical variables: Facilities, Educators, Materials, Curriculum, and Supervision.
-Using Python’s matplotlib and seaborn libraries, a grouped bar chart was created to compare the mean outcomes of each variable against a benchmark value of 17.5. The visualisation provided a clear and concise assessment of implementation gaps, making it easier to identify areas requiring improvement. The script includes both the code and the generated results, offering a self-contained view of the data-driven findings.
+Using Python’s matplotlib and seaborn libraries, a grouped bar chart was created to compare the mean outcomes of each variable against a benchmark value of 17.5. The visualization provided a clear and concise assessment of implementation gaps, making it easier to identify areas requiring improvement. The script includes both the code and the generated results, offering a self-contained view of the data-driven findings.
